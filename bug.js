@@ -234,7 +234,7 @@ const products = [
 {
     id: 25,
     name: "Iphone 17 pro max",
-    categories: "electronics",
+    category: "Electronics",
     price: 1940000,
     image: "apple.jpg",
     rating: 5,
@@ -243,7 +243,7 @@ const products = [
 {
     id: 26,
     name: "Iphone 17 Air",
-    categories: "electronis",
+    category: "Electronics",
     price: 1430000,
     image: "apple-2.jpg",
     rating: 4,
@@ -253,7 +253,7 @@ const products = [
 {
     id: 27,
     name: "Samsung Galaxy S26 ultra",
-    categories: "electronics",
+    category: "Electronics",
     price: 2400000,
     image: "samsung-galaxy.jpg",
     rating: 5,
@@ -262,7 +262,7 @@ const products = [
 {
     id: 28,
     name: "Samsung Galaxy S26",
-    categories: "electronics",
+    category: "Electronics",
     price: 105000,
     image: "samsung-galaxy-26.jpg",
     rating: 4,
@@ -271,7 +271,7 @@ const products = [
 {
     id: 29,
     name: "Apple MacBook air m5 16/512GB midnight black Laptop",
-    categories: "electronics",
+    category: "Electronics",
     price: 1955000,
     image: "apple-macbook.jpg",
     rating: 5,
@@ -280,7 +280,7 @@ const products = [
 {
     id: 30,
     name: "HP VICTUS 15 GAMING 13TH GEN INTEL CORE I5 16GB RAM Laptop",
-    categories: "electronics",
+    category: "Electronics",
     price: 1550000,
     image: "hp-laptop.jpg",
     rating: 5,
